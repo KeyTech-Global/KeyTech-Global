@@ -82,14 +82,8 @@ We build high-quality websites, web applications, and mobile apps that help busi
 🔗 **LinkedIn:** https://www.linkedin.com/in/key-tech-73bb373a9  
 📸 **Instagram:** https://www.instagram.com/keytech_global  
 
-### **Working Hours:**
-🕘 **Monday - Friday:** 9:00 AM - 7:00 PM  
-📅 **Weekend Support:** Available for urgent projects
-
 ### **Response Time:**
 ⏰ **Email:** Within 24 hours  
-💬 **GitHub Issues:** Within 48 hours
-
 ---
 
 ## 💼 **Our Process**
@@ -105,27 +99,6 @@ We build high-quality websites, web applications, and mobile apps that help busi
 
 ---
 
-## 📂 **Featured Projects**
-
-### **Project 1: E-commerce Website**
-- **Tech:** React, Node.js, MySQL
-- **Features:** Product catalog, shopping cart, payment gateway
-- **Duration:** 6 weeks
-
-### **Project 2: Food Delivery App**
-- **Tech:** Flutter, Firebase
-- **Features:** Real-time tracking, push notifications, payment
-- **Duration:** 8 weeks
-
-### **Project 3: Business Dashboard**
-- **Tech:** React, Express.js, MySQL
-- **Features:** Analytics, reports, user management
-- **Duration:** 4 weeks
-
-*[Add more projects as you complete them]*
-
----
-
 ## 🤝 **Let's Work Together!**
 
 **Have a project in mind?** Contact us for:
@@ -136,32 +109,6 @@ We build high-quality websites, web applications, and mobile apps that help busi
 
 **Simply email us at:** keytechglobal06@gmail.com  
 **Subject:** "New Project Inquiry - [Your Project Name]"
-
----
-
-## ❓ **Frequently Asked Questions**
-
-**Q: How much does a website cost?**  
-**A:** Basic websites start at $300, complex websites up to $1500+
-
-**Q: How long does development take?**  
-**A:** 2-8 weeks depending on complexity
-
-**Q: Do you provide hosting?**  
-**A:** Yes, we can help with hosting setup
-
-**Q: What about after-launch support?**  
-**A:** 1 month free support included
-
-**Q: Can you work with my existing website?**  
-**A:** Yes, we can update/maintain existing websites
-
----
-
-## 📢 **Special Offer for New Clients!**
-
-🎉 **Get 10% OFF** your first project!  
-Mention this GitHub profile when contacting us.
 
 ---
 
