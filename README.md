@@ -1,16 +1,22 @@
-## Hi there 👋
+# KeyTech Global 🚀
 
-<!--
-**KeyTech-Global/KeyTech-Global** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a technology-driven startup specializing in building high-quality
+**websites, web applications, and mobile apps** for clients.
 
-Here are some ideas to get you started:
+## 💼 What We Do
+- 🌐 Website Design & Development
+- 📱 Mobile App Development (Android & iOS)
+- 🧩 Web Applications
+- 🎨 UI/UX Design
+- ☁️ Backend & Cloud Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Java, PHP
+- Mobile: Flutter, Android
+- Database: MySQL, Firebase
+- Tools: Git, GitHub, Figma
+
+## 📬 Contact
+- Email: keytechglobal06@gmail.com  
+- GitHub: https://github.com/KeyTech-Global
