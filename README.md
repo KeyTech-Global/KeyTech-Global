@@ -1,8 +1,9 @@
 # 🚀 KeyTech Global
 
-**Professional Web & Mobile App Development Agency**
+We architect digital excellence, transforming bold ideas into scalable, high-performance solutions. As a full-stack technology partner, we specialize in crafting pixel-perfect user experiences backed by robust, cloud-native architectures.
 
-We build high-quality websites, web applications, and mobile apps that help businesses grow online. From small business websites to complex web applications, we deliver solutions that work.
+## 🎯 Our Mission
+> *"To empower businesses with cutting-edge digital solutions that drive growth, enhance efficiency, and create meaningful impact in the digital landscape."*
 
 ---
 
