@@ -20,3 +20,5 @@ We are a technology-driven startup specializing in building high-quality
 ## 📬 Contact
 - Email: keytechglobal06@gmail.com  
 - GitHub: https://github.com/KeyTech-Global
+- LinkedIn: www.linkedin.com/in/key-tech-73bb373a9 
+- Instagram: https://www.instagram.com/keytech_global?igsh=MWdqaTlmdzF3MjQzaw==
