@@ -73,6 +73,17 @@ We architect digital excellence, transforming bold ideas into scalable, high-per
 
 ---
 
+# 🤝 Investor & Partnership Inquiry
+
+We are open to:
+
+- Strategic technology partnerships  
+- Product collaborations  
+- Contract-based engineering  
+- Long-term SaaS development  
+
+---
+
 ## 📞 **Get In Touch**
 
 ### **Contact Information:**
